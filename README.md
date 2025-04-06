@@ -18,7 +18,7 @@ An advanced tutorial that dives deeper into custom board development using Altiu
 # ====== Courses ====== 
 
 ## 3. Full Course: How to Design and Build Your Own Board – by Robert Feranec *(Paid)*  
-🎓 **Platform**: Fedvel Academy  
+🎓 **Platform**: [ Fedevel Academy](https://fedevel.com/)    
 A complete professional course—worth it if you’re ready to invest in leveling up.
 
 ---
